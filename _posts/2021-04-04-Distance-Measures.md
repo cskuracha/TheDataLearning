@@ -1,6 +1,11 @@
 ---
-layout: single
 title: Distance Measures
+author:
+  name: Chaitanya Sagar Kuracha
+  link: https://github.com/cskuracha
+date: 2021-04-04 20:55:00 +0530
+categories: [Tutorial, Machine Learning]
+tags: [Machine Learning,Distance Measure, Euclidean Distance, Manhattan Distance, Minkowski Distance, Hamming Distance]
 ---
 In this article, we will look into different distance measures we will use in Machine Learning. 
 
@@ -8,18 +13,18 @@ In this article, we will look into different distance measures we will use in Ma
 
 Euclidean Distance is most frequently used distance measure. 
 
-> ![Graph]({{"/assets/images/2021-04-04-distance-measures-1.jpg" | relative_url}})
+> ![Graph](/assets/images/2021-04-04-distance-measures-1.jpg)
 
 If we observe the above picture, variable 'd' is called the Euclidean distance (L2). It is called the shortest distance from X1 to X2.
 
 In above picture, we have two features, f1 and f2 and two datapoints in 2D, X1 and X2.
 
-> ![Euclidean Measure]({{"/assets/images/2021-04-04-distance-measures-3.jpg" | relative_url}})
+> ![Euclidean Measure](/assets/images/2021-04-04-distance-measures-3.jpg)
 
 
 Euclidean distance can be formulated as 
 
-> ![Euclidean Measure]({{"/assets/images/2021-04-04-distance-measures-2.jpg" | relative_url}})  
+> ![Euclidean Measure](/assets/images/2021-04-04-distance-measures-2.jpg)  
 
 ### 2. Manhattan Distance (L1):
 
@@ -27,13 +32,13 @@ Manhattan Distance is next frequently used and simple distance measure.
 
 From above graph, Manhattan distance can be formulated as,
 
-> ![Manhattan Measure]({{"/assets/images/2021-04-04-distance-measures-4.jpg" | relative_url}})
+> ![Manhattan Measure](/assets/images/2021-04-04-distance-measures-4.jpg)
 
 ### 3. Minkowski Distance (LP):
 
 Minkowski Distance is the generalized distance measure and can be formulated as, 
 
-> ![Minkowski Measure]({{"/assets/images/2021-04-04-distance-measures-5.jpg" | relative_url}})
+> ![Minkowski Measure](/assets/images/2021-04-04-distance-measures-5.jpg)
 
 When p=1 in Minkowski Distance, it becomes *Manhattan Distance* and when p=2, it becomes *Euclidean distance*
 
@@ -44,7 +49,7 @@ Manhattan distance is also called as L1-Norm and Euclidean distance is called as
 Hamming distance is widely used in text processing and it gives us the # of difference of values between dimensions in vectors.
 Hamming distance will  be used in Gene sequence.
 
-> ![Hamming Distance]({{"/assets/images/2021-04-04-distance-measures-6.jpg" | relative_url}})
+> ![Hamming Distance](/assets/images/2021-04-04-distance-measures-6.jpg)
 
 Above sequence generates value of 2 as there is difference of values in 7 and 10 dimensions
 

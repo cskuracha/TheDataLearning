@@ -4,7 +4,7 @@ author:
   name: Chaitanya Sagar Kuracha
   link: https://github.com/cskuracha
 date: 2021-04-04 20:55:00 +0530
-categories: [Machine Learning, Tutorial]
+categories: [Tutorial, Machine Learning]
 tags: [Machine Learning,Classification,Regression]
 ---
 In this article, we will look into two different kinds of Machine learning algorithms, Classification and Regression models.
@@ -20,7 +20,7 @@ Here when we look closely, we are classifying the datapoints into set of classes
 
 We can interpret classification dataset as below:
 
-> ![Classification](/assets/img/2021-04-04-Classifiction-and-regression-1.png)
+> ![Classification](/assets/images/2021-04-04-Classifiction-and-regression-1.png)
 
 where x is input data and y is the output class.
 
@@ -30,7 +30,7 @@ Consider this example for understanding regression problems. Say, we want to pre
 
 We can interpret regression dataset as below:
 
-> ![Regression]({{"/assets/images/2021-04-04-Classifiction-and-regression-2.jpg" | relative_url}})
+> ![Regression](/assets/images/2021-04-04-Classifiction-and-regression-2.jpg)
 
 where x is input data and y is a real valued number
 

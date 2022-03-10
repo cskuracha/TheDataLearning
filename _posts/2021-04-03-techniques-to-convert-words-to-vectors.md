@@ -5,9 +5,8 @@ author:
   name: Chaitanya Sagar Kuracha
   link: https://github.com/cskuracha
 date: 2021-04-03 20:55:00 +0530
-categories: [Machine Learning, Tutorial]
+categories: [Tutorial, Machine Learning]
 tags: [Machine Learning,Bag of Words, BOW,TF-IDF,TFIDF,Word2Vec]
-pin: true
 ---
 
 In Machine Learning, we want to convert words into vectors to fully utilize the mathematical functions for the model.

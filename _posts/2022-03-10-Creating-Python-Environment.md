@@ -1,6 +1,11 @@
 ---
-layout: single
 title: Creating a Python Environment
+author:
+  name: Chaitanya Sagar Kuracha
+  link: https://github.com/cskuracha
+date: 2022-03-10 20:55:00 +0530
+categories: [Tutorial, Python, Machine Learning]
+tags: [Python, Jupyter Notebook, Machine Learning]
 ---
 In this article, we will try to lean about creating virtual environment in Python.
 ## Creating Virtual Environment

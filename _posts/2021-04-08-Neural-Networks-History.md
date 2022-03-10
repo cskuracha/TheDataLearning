@@ -1,6 +1,11 @@
 ---
-layout: single
 title: Neural Networks - History
+author:
+  name: Chaitanya Sagar Kuracha
+  link: https://github.com/cskuracha
+date: 2021-04-08 20:55:00 +0530
+categories: [Tutorial, Machine Learning]
+tags: [Machine Learning,Neural Network, Neuron]
 ---
 In this article, I want to give brief introduction to Neural Networks.
 
@@ -8,7 +13,7 @@ First Neural Network was designed by Frank Rosenblatt in 1957 and is called perc
 
 Concepts of Neural networks are loosely inspired from Biological neurons (Biological neurons are more complicated).
 
-> ![Neuron]({{"/assets/images/2021-04-08-Neural-Networks-History-1_1.jpg" | relative_url}} )
+> ![Neuron](/assets/images/2021-04-08-Neural-Networks-History-1_1.jpg)
 
 (Image from https://en.wikipedia.org/wiki/Artificial_neuron#/media/File:Neuron3.svg)
 
@@ -20,7 +25,7 @@ On highlevel, neurons contains three parts,
 Biological neurons cannot exist on their own but exists in networks. Output of one neuron connects to dendrites of other neurons and forms the networks
 
 
-> ![Neural Neuron]({{"/assets/images/2021-04-08-Neural-Networks-History-1_2.png" | relative_url}} )
+> ![Neural Neuron](/assets/images/2021-04-08-Neural-Networks-History-1_2.png )
 
 In Artificial Neural networks, we will pass inputs, x1, x2, x3,... xn with w1, w2, w3, ... wn as corresponding weights to the neurons. These inputs and weights are weighted and summed and passed thru activating function. This function process the data and send the output.
 

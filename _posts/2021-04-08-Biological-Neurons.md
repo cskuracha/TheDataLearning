@@ -1,10 +1,15 @@
 ---
-layout: single
 title: Biological Neurons
+author:
+  name: Chaitanya Sagar Kuracha
+  link: https://github.com/cskuracha
+date: 2021-04-08 20:55:00 +0530
+categories: [Tutorial, Machine Learning]
+tags: [Machine Learning,Neural Network, Neuron]
 ---
 In this article, we will look into how Biological Neurons work and how it is different from Artificial Neurons
 
-> ![Neuron]({{"/assets/images/2021-04-08-Biological-Neurons-1.jpg" | relative_url}} )
+> ![Neuron](/assets/images/2021-04-08-Biological-Neurons-1.jpg )
 
 When we observe a single neuron, some dendrites will be of more thickness than other dendrites. This allows to pass more impulses to nucleus than other dendrites.
 Once we have enough impulses from dendrites then neurons sends the output to axioms, else neurons will not be activated.
@@ -24,7 +29,7 @@ Similarly, when a kid is born in Canada, he knows how snow looks and feels but k
 
 We can write activation function as, 
 
-> ![Neuron]({{"/assets/images/2021-04-08-Biological-Neurons-2.jpg" | relative_url}} )
+> ![Neuron](/assets/images/2021-04-08-Biological-Neurons-2.jpg)
 
 This function is similar to Logistic Regression
 

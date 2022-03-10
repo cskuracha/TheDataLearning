@@ -4,5 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+This is Chaitanya Sagar Kuracha. I am passionate about learning new things and want to explore different areas. 
+
+In Cuddle-AI, I want to share my understanding on the Machine Learning and AI concepts.

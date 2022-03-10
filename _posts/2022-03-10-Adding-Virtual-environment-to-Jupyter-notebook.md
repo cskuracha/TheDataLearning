@@ -1,8 +1,11 @@
 ---
-layout: single
-type: python
-categories: python
 title: Adding Virtual Environment to Jupyter Notebook
+author:
+  name: Chaitanya Sagar Kuracha
+  link: https://github.com/cskuracha
+date: 2022-03-10 20:55:00 +0530
+categories: [Tutorial, Python, Machine Learning]
+tags: [Python, Jupyter Notebook, Machine Learning]
 ---
 ## Adding a new virtual environment to Jupyter Notebook
 After we create a virtual environment, we need to add the created virtual environment to Jupyter notebook. 
